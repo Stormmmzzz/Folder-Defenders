@@ -6,4 +6,4 @@ File Wars - installable web app (PWA)
    Android/Chrome/Edge: menu > Install app.
 3. After the first load it works offline and opens fullscreen like an app.
 
-When you update index.html, change 'file-wars-v1' in sw.js (e.g. v2) so installed copies refresh.
+When you update index.html, change 'file-wars-v2' in sw.js (e.g. v3) so installed copies refresh.
